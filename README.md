@@ -2,4 +2,5 @@ My name is Turan, I am a second-year student in computer engineering, I am tryin
 I also acquire knowledge and both experience in Top 10 web application vulnerabilities published by OWASP.I am also looking forward to gaining additional skills in cloud security.In addition,
 I write my own scripts using Python and Shell as programming languages, and I do object-oriented programming with Java.
 
-![Uploading 121403666-cc367b80-c963-11eb-8d99-756261926fbf.gif…]()
+
+![121403666-cc367b80-c963-11eb-8d99-756261926fbf](https://github.com/Ahmettrnn/Ahmettrnn/assets/150042080/de1e6bd1-3ce7-4918-a8aa-b78983ec7103)
